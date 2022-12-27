@@ -11,4 +11,4 @@ coverage==5.1
 fabric==2.4.0
 seaborn==0.9.0
 
-setuptools==39.1.0
+setuptools==65.5.1
